@@ -16,6 +16,7 @@ public class AplicacionJavaPruebaEduardo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Primer mensaje prueba dentro del proyecto");
+        System.out.println("Segundo comentario para modificar en el github");
     }
     
 }
